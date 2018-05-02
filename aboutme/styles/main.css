@@ -1,4 +1,13 @@
-#main-banner{
+.main-banner{
 	height: 100hv;
 	width:100%;
+	min-height: 350px;
+    background-color: #252a30;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.who-is-he-cont{
+	text-align: center;
 }
