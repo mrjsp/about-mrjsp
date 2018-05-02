@@ -1,15 +1,10 @@
 .main-container{
-	display: table;
-    margin: 0 auto;
-    width: 100%;
+
 }
 
 .main-banner-container{
-	display: table-cell;
-    position: relative;
-    z-index: 10;
-    text-align: center;
-    vertical-align: middle;
+	display: table;
+    margin: 0 auto;
 	height: 100vh;
 	width:100%;
 	min-height: 350px;
@@ -21,5 +16,10 @@
 }
 
 .main-banner-content{
+	display: table-cell;
+    position: relative;
+    z-index: 10;
+    text-align: center;
+    vertical-align: middle;
 	color: #FFFFFF;
 }
