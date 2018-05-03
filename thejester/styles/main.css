@@ -43,7 +43,7 @@ body {
     margin: 0 auto;
 }
 
-.my-skills-intro {
+.my-skills-intro, .connect-intro {
 	font-size: 3.2rem;
     margin: 10rem 0 2.0rem
 }
@@ -55,6 +55,7 @@ body {
 .icon-lrg-yellow {
     color: #ffd966;
     font-size: 100px;
+    padding:20px;
 }
 
 
@@ -62,4 +63,10 @@ body {
     background-color: #DDDDDD;
     text-align: center;
     margin: 0 auto;
+}
+
+.icon-medium-grey {
+    color: #7b7b7b;
+    font-size: 50px;
+    padding:20px;
 }
