@@ -56,3 +56,10 @@ body {
     color: #ffd966;
     font-size: 100px;
 }
+
+
+.connect-container {
+    background-color: #DDDDDD;
+    text-align: center;
+    margin: 0 auto;
+}
