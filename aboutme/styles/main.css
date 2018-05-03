@@ -22,6 +22,7 @@
     text-align: center;
     vertical-align: middle;
 	color: #FFFFFF;
+	text-shadow: 2px 2px 3px #000000;
 }
 
 
@@ -31,3 +32,8 @@
     margin-bottom: 100px;
 }
 	
+.my-skills-container {
+	background-color: #fff;
+    text-align: center;
+    margin: 0 auto;
+}
