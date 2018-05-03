@@ -37,3 +37,12 @@
     text-align: center;
     margin: 0 auto;
 }
+
+.my-skills-intro {
+	font-size: 3.2rem;
+    margin: 10rem 0 2.0rem
+}
+
+.my-skills-statement {
+    font-size: 2.0rem
+}
